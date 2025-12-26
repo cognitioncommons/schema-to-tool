@@ -1,0 +1,2 @@
+[console_scripts]
+schema-to-tool = schema_to_tool.cli:main
